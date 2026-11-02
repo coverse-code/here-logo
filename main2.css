@@ -648,7 +648,7 @@ a {
   }
 }
 
-@media (max-width: 360px) {
+media (max-width: 360px) {
   .main-nav a {
     font-size: 4px;
   }
